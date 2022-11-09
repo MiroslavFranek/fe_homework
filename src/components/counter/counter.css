@@ -1,0 +1,33 @@
+.counterTile {
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    margin: auto;   
+    margin-top: 30px;
+    width: 50%;
+    border: 1px solid transparent;    
+    text-align: center;
+    background-color: rgb(20,20,20);
+    border-radius: 15px;
+}
+
+.text {
+    grid-column: 2;
+}
+
+.button{
+    margin: auto 2vw auto auto;
+    border: 1px solid transparent;   
+    width: 10vw;
+    background-color: rgb(10,10,10);
+    color:white;
+    border-radius: 10px;
+}
+
+.button:hover{
+    background-color:mediumorchid;
+    cursor:pointer;
+}
+
+h4{
+    margin: 10px;
+}
