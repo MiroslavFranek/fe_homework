@@ -1,0 +1,23 @@
+.container{
+    width: 75vw;
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+}
+.filterDetails{
+    width: 25vw;
+    float: left;
+    background-color: rgb(15, 15, 15);
+    height:inherit; 
+    border-radius: 30px;
+    margin-bottom: 20px;
+  
+}
+.filterDetails p {
+    margin-left: 10%;
+}
+.carList{
+    margin-left: 20px;
+    width: 100%;
+}
+

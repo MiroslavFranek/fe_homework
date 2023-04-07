@@ -1,0 +1,24 @@
+nav{
+    background-color: mediumorchid;
+    padding-left: 1vmin;
+    padding: 10px;
+}
+a{
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    margin-right: 3vmin;
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: 500;
+   
+}
+#logo{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+a:hover{
+    background-color: rgb(10,10,10);
+}
+

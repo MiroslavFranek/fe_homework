@@ -1,0 +1,11 @@
+.carTiles{
+    width: 100%;
+    background-color: rgb(15,15,15);
+    border-radius: 30px;
+    text-align: center;
+    padding: 10px 0;
+    margin-bottom: 20px;
+}
+.carText{
+    margin: 0;
+}

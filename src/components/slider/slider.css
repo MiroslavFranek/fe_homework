@@ -1,0 +1,31 @@
+.sliderTile {
+    margin: auto;
+    margin-top: 30px;
+    width: calc(100% / 3 - 1%);
+    background-color: rgb(15, 15, 15);
+    border-radius: 30px;
+    text-align: center;
+}
+
+.sliderText {
+    padding-top: 10px;
+}
+
+.slider {
+    -webkit-appearance: none;
+    height: 1em;
+    background: rgb(10, 10, 10);
+    border-radius: 15px;
+    background-image: linear-gradient(mediumorchid,mediumorchid);
+    background-repeat: no-repeat;
+    margin-bottom: 20px;
+}
+
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 30px;
+    height: 30px;
+    background-color: mediumorchid;
+    border-radius: 50%;
+    cursor: pointer;
+}

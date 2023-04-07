@@ -1,0 +1,44 @@
+[
+    {
+        "manufacturer": "Toyota",
+        "model": "GR Yaris",
+        "price": 899999,
+        "milage": 10,
+        "fuel": "petrol"
+    },
+    {
+        "manufacturer": "Toyota",
+        "model": "GR Supra",
+        "price": 1099999,
+        "milage": 20000,
+        "fuel": "petrol"
+    },
+    {
+        "manufacturer": "BMW",
+        "model": "M4",
+        "price": 1899999,
+        "milage": 10,
+        "fuel": "petrol"
+    },
+    {
+        "manufacturer": "BMW",
+        "model": "M3",
+        "price": 1799999,
+        "milage": 25000,
+        "fuel": "petrol"
+    },
+    {
+        "manufacturer": "Audi",
+        "model": "S6",
+        "price": 2799999,
+        "milage": 2500,
+        "fuel": "diesel"
+    },
+    {
+        "manufacturer": "Audi",
+        "model": "RS e-tron GT",
+        "price": 3799999,
+        "milage": 100,
+        "fuel": "electric"
+    }
+]
